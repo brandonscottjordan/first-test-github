@@ -1,5 +1,5 @@
 This is my first commmit!
 
-And here we go with  the commmitt number 2git branch
+And here we go with  the commmitt number 2
 
-Making a change on the main branch...
+Made a change in feature branch only.
